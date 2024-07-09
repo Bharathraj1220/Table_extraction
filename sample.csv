@@ -1,0 +1,23 @@
+,0,1,2
+0,Paper,Classifier,Unbalanced data
+1,,,handling technique
+2,[27],CNN-LSTM,SMOTE
+3,,SVMLRCNN-LSTM,
+4,[1],"Decision Tree,RF,ANN",
+5,,"LSTM,Autoenconder, CNN",
+6,[18],LRRFSVMANNCNN,
+7,[17],LRRFSVMANNCNN,
+8,[6],LRRFSVMANN,"class weights,"
+9,,,random undersampling
+10,,,random oversampling
+11,,,k-medoids based
+12,,,"undersampling,"
+13,,,"SMOTE,"
+14,,,cluster-based oversampling
+15,This paper,CNN,"class weights,"
+16,,,random undersampling
+17,,,"random oversampling,"
+18,,,k-medoids based
+19,,,"undersampling,"
+20,,,"SMOTE,"
+21,,,cluster-based oversampling
